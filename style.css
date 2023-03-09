@@ -49,6 +49,12 @@ body {
 .navbar a.active {
   color: #0ef;
 }
+.navbar a:hover {
+  box-shadow: 0 0 20px #0ef;
+  background: #0ef;
+  color: #1f2d22;
+  border-radius: 20px;
+}
 .home {
   position: relative;
   width: 100%;
